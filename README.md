@@ -25,5 +25,7 @@ binance.json
 ```
 
 symbol: exactly the same as that returned by the exchange API.
+
 name: full name found in CoinMarketCap or CoinGecko.
+
 withdrawfee: own currency fee charged when making transfers to other portfolios.
