@@ -1,0 +1,2847 @@
+[
+  {
+    "symbol": "0xBTC",
+    "name": "0xBitcoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "1337",
+    "name": "Elite",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "1K2",
+    "name": "K2ph COIN",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "1X2",
+    "name": "1X2 Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "420G",
+    "name": "Ganjacoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "611",
+    "name": "SixEleven",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "ABYSS",
+    "name": "The Abyss",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ACC",
+    "name": "Adcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ACCL",
+    "name": "Accelerator",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ACED",
+    "name": "AceD",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ACO",
+    "name": "ACoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ACP",
+    "name": "AnarchistsPrime",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ADCN",
+    "name": "AsiaDigiCoin",
+    "withdrawfee": 500
+  },
+  {
+    "symbol": "ADST",
+    "name": "Adshares",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ADZ",
+    "name": "Adzcoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "AEG",
+    "name": "Aegeus",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "AGM",
+    "name": "Argoneum",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "AGRI",
+    "name": "AgriNovusCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "AIVA",
+    "name": "Aid Eva Coin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "AKY",
+    "name": "AkuyaCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ALIS",
+    "name": "ALIS",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ALL",
+    "name": "ALLION",
+    "withdrawfee": 0.2
+  },
+  {
+    "symbol": "AMMO",
+    "name": "Ammo Reloaded",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "AMS",
+    "name": "Amsterdamcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ANC",
+    "name": "AnyChain",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ANTX",
+    "name": "Antimatter",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "APR",
+    "name": "APR Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ARB",
+    "name": "ARBITRAGE",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ARG",
+    "name": "Argentum",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "ARGUS",
+    "name": "Arguscoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ARGUSOLD",
+    "name": "ARGUSOLD",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ARION",
+    "name": "Arion",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ARLIZE",
+    "name": "ARLIZE",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ATFS",
+    "name": "ATFS",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ATOM",
+    "name": "AtomicCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "AU",
+    "name": "AurumCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "B2B",
+    "name": "B2B",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BAKED",
+    "name": "BAKEDcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "Barthor",
+    "name": "Barthor",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BBK",
+    "name": "Bitblocks",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BBP",
+    "name": "BiblePay",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BC",
+    "name": "Boomstarter Coin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BCHABC",
+    "name": "Bitcoin Cash",
+    "withdrawfee": 0.001
+  },
+  {
+    "symbol": "BCM",
+    "name": "BitcoinMetal",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BCW",
+    "name": "BitCrownCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BDL",
+    "name": "Bitdeal",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BEAN",
+    "name": "Bean Cash",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "BEER",
+    "name": "Beerhouse",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BELA",
+    "name": "Bela",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BENGO",
+    "name": "BENGOSHI COIN",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BENJI",
+    "name": "BenjiRolls",
+    "withdrawfee": 0.05
+  },
+  {
+    "symbol": "BET",
+    "name": "Betacoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BFI",
+    "name": "BitFinTech",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BIGUP",
+    "name": "Bigup",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BIR",
+    "name": "Birake",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BIRDS",
+    "name": "BirdsCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BITG",
+    "name": "Bitcoin Green",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BIXC",
+    "name": "Bixc",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BIZ",
+    "name": "BizCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BLAZR",
+    "name": "BlazerCoin",
+    "withdrawfee": 0.2
+  },
+  {
+    "symbol": "BLCR",
+    "name": "Blacer Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BLK",
+    "name": "Blackcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BLN",
+    "name": "Boleno",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BLUE",
+    "name": "Blue Protocol",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BND",
+    "name": "Blocknode",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BNN",
+    "name": "BrokerNekoNetwork",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BOAT",
+    "name": "Boat",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BONPAY",
+    "name": "Bonpay",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BOPS",
+    "name": "Beonpush",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BQ",
+    "name": "Bitqy",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BRAT",
+    "name": "Brother",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BRC",
+    "name": "BinaryCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BRIT",
+    "name": "Britcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BSD",
+    "name": "BitSend",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BSN",
+    "name": "Bastone",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BSR",
+    "name": "BitSoar",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BTBc",
+    "name": "Bitbase",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "withdrawfee": 0.0005
+  },
+  {
+    "symbol": "BTCH",
+    "name": "Bitcoin Hush",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "BTCRED",
+    "name": "BitcoinRed",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BTDX",
+    "name": "BitCloud",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "BTPL",
+    "name": "BitcoinPlanet",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BTX",
+    "name": "Bitcore",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BTXC",
+    "name": "Bettex Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BULLS",
+    "name": "Bullshitcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BUZZ",
+    "name": "Buzzcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "BX",
+    "name": "BITTX",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "BXT",
+    "name": "Bittoken",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "C2P",
+    "name": "Coin2Play",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "C47",
+    "name": "Code47",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "CAB",
+    "name": "CABox",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "CACHE",
+    "name": "CACHEProject",
+    "withdrawfee": 0.2
+  },
+  {
+    "symbol": "CANN",
+    "name": "CannabisCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CAT",
+    "name": "Bitclave",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CATO",
+    "name": "CatoCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CAZ",
+    "name": "CAZ Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CBANK",
+    "name": "CryptoBank",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "CCC",
+    "name": "Concierge Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CCL",
+    "name": "CYCLEAN",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "CCRB",
+    "name": "CryptoCarbon",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "CDX",
+    "name": "CommodityAdNetwork",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "CHE",
+    "name": "Crypto Harbor Exchange",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "CHILI",
+    "name": "ChiliCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CHIPS",
+    "name": "Chips",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "CIF",
+    "name": "Crypto Improvement Fund",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CJ",
+    "name": "CryptoJacksCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "CL",
+    "name": "Coinlancer",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "CMIT",
+    "name": "CMITCOIN",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "CMPCO",
+    "name": "CampusCoin",
+    "withdrawfee": 0.2
+  },
+  {
+    "symbol": "CNNC",
+    "name": "Cannation",
+    "withdrawfee": 0.02
+  },
+  {
+    "symbol": "CNODE",
+    "name": "CannaNode",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CNTF",
+    "name": "Centurion Future",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CNZ",
+    "name": "CryptoNationZ",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "CO2",
+    "name": "ClimateCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "COUPE",
+    "name": "Coupecoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CQST",
+    "name": "Conquestcoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "CRACKERS",
+    "name": "Crackers",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CRAVE",
+    "name": "Crave",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CRDNC",
+    "name": "CredenceCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CREA",
+    "name": "CreativeCoin",
+    "withdrawfee": 0.02
+  },
+  {
+    "symbol": "CREVA2",
+    "name": "Crevacoin2.0",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CRMSN",
+    "name": "Crimsoncoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CRN",
+    "name": "CoronaCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CROP",
+    "name": "Cropcoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "CRW",
+    "name": "CrownCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CTIC3",
+    "name": "Coimatic3",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "CXT",
+    "name": "Coinonat",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CYCLONE",
+    "name": "CycloneCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "CYDER",
+    "name": "Cyder",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "D",
+    "name": "Denarius",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DALC",
+    "name": "DaleCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "DAPSX",
+    "name": "DAPSX",
+    "withdrawfee": 1000
+  },
+  {
+    "symbol": "DARI",
+    "name": "DariCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DASH",
+    "name": "Dash",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DCN",
+    "name": "Dentacoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "DCO",
+    "name": "D'Coin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "DEM",
+    "name": "eMark",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DEV",
+    "name": "Deviant",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DEX",
+    "name": "BarterDEX",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DFT",
+    "name": "Draftcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DGB",
+    "name": "Digibyte",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "DGC",
+    "name": "Digitalcoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "DGS",
+    "name": "Dragonglass",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "DGTX",
+    "name": "Digitex Futures",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "DIG",
+    "name": "Dignity",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "DIME",
+    "name": "Dimecoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DMB",
+    "name": "DigitalMoneyBits",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DMC",
+    "name": "DynamicCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "DNE",
+    "name": "DanetonBit",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "withdrawfee": 2
+  },
+  {
+    "symbol": "DP",
+    "name": "DigitalPrice",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DRGN",
+    "name": "DragonChain",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "DRS",
+    "name": "DigitalRupees",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "DSR",
+    "name": "Desire",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DTCT",
+    "name": "DetectorToken",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "DTEM",
+    "name": "Dystem",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DUTCH",
+    "name": "DutchCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DVRS",
+    "name": "Diverse",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "DZC",
+    "name": "D-Zone Coin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "EBT",
+    "name": "EbitTreeCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "EBTC",
+    "name": "eBitcoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ECC",
+    "name": "ECC",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "ECOT",
+    "name": "EcoToken",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "EDRC",
+    "name": "EDRCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "EGC",
+    "name": "EverGreenCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "ELIX",
+    "name": "Elixir",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ELS",
+    "name": "Elysium",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ELT",
+    "name": "ELTCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ELY",
+    "name": "Elysian",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "EMC",
+    "name": "Emercoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "eNAU",
+    "name": "NAU",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ENZO",
+    "name": "ENZOLimited",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "EOS",
+    "name": "EOS",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "EQL",
+    "name": "Equal",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "EQT",
+    "name": "Equitrader",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "ERA",
+    "name": "ERA",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "ERC",
+    "name": "EuropeCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ERT",
+    "name": "eSportsRewardToken",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ERY",
+    "name": "Eryllium",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ESP",
+    "name": "Espers",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "ETBS",
+    "name": "Ethbits",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ETC",
+    "name": "EthereumClassic",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "ETG",
+    "name": "EthereumGold",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ETHOS",
+    "name": "Ethos",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "EWC",
+    "name": "EWangBiCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "EXC",
+    "name": "Excaliburcoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "EXCC",
+    "name": "ExchangeCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "EXCL",
+    "name": "ExclusiveCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "EXT",
+    "name": "Exsolution",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "EXTN",
+    "name": "ExtensiveCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "EYCO",
+    "name": "Eyco Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "FACE",
+    "name": "Faceter",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "FAIR",
+    "name": "Faircoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "FAP",
+    "name": "FAPcoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "FET",
+    "name": "fetish coin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "FGC",
+    "name": "FantasyGold",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "FIT",
+    "name": "FitCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "FLANDERS",
+    "name": "FLANDERS",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "FLASH",
+    "name": "Flash",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "FLIK",
+    "name": "Flik",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "FLM",
+    "name": "Folm",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "FOOD",
+    "name": "Foodcoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "FTC",
+    "name": "Feathercoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GB",
+    "name": "GoldBlocks",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "GBX",
+    "name": "GoByte",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GDC",
+    "name": "Goldencoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "GDNC",
+    "name": "Guardian Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GEERT",
+    "name": "Geertcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GET",
+    "name": "GreenEnergyToken",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GIN",
+    "name": "GINcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GLS",
+    "name": "GlassCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GLT",
+    "name": "GlobalToken",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GMB",
+    "name": "Gambleo",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GMX",
+    "name": "GoldMaxCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GNR",
+    "name": "Gainer Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GNT",
+    "name": "Golem",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "GOLF",
+    "name": "Golfcoin",
+    "withdrawfee": 1000
+  },
+  {
+    "symbol": "GOOD",
+    "name": "Goodomy",
+    "withdrawfee": 2
+  },
+  {
+    "symbol": "GP",
+    "name": "GoldPieces",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GPKR",
+    "name": "Gold Poker",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GRE",
+    "name": "Greencoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GRMD",
+    "name": "GreenMed",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "GRPH",
+    "name": "Graphcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GRS",
+    "name": "Groestlcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GRX",
+    "name": "GoldRewardToken",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "GTM",
+    "name": "Gentarium",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "GUSD",
+    "name": "Gemini Dollar",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "HALLO",
+    "name": "Halloweencoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HBC",
+    "name": "HomeBlockCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HC",
+    "name": "HarvestCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HEALTHY",
+    "name": "HealthyFoodProgram",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HIGH",
+    "name": "Highgain",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HiTEK",
+    "name": "Hi-TEK",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HMC",
+    "name": "HarmonyCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HNC",
+    "name": "Huncoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HODL",
+    "name": "Hodlcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HONEY",
+    "name": "Honey",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HOPE",
+    "name": "Hopecoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HOUSING",
+    "name": "HousingCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HPAY",
+    "name": "HadePay",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "HPC",
+    "name": "Happycoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HRC",
+    "name": "Hara",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HTML",
+    "name": "HTMLCOIN",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HTS",
+    "name": "HotShot Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HUB",
+    "name": "Hubcoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "HYN",
+    "name": "Hyperion",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "HYP",
+    "name": "HyperStake",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "HYPER",
+    "name": "Hyper",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "IAN",
+    "name": "IAN Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "IBC",
+    "name": "RCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "IBT",
+    "name": "IBTCOIN",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "IC",
+    "name": "Ignition",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ICE",
+    "name": "iDice",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ICOT",
+    "name": "Initial Coin Offering Token",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "IDOL",
+    "name": "IDOLCOIN",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "IFT",
+    "name": "InvestFeed",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "IFX",
+    "name": "Infinex",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ILC",
+    "name": "ILCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "IMX",
+    "name": "ImpactCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "INDIA",
+    "name": "IndiaCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "INFO",
+    "name": "InfoCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "INSN",
+    "name": "InsaneCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "INX",
+    "name": "INMAX",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "INXT",
+    "name": "Internxt",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "IOE",
+    "name": "IOECoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "IQT",
+    "name": "Iquant",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "IVC",
+    "name": "Invoice Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "IXC",
+    "name": "IXCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "JAPAN",
+    "name": "JapanCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "JBC",
+    "name": "Japan Brand Coin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "JC",
+    "name": "Jesus Coin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "JET",
+    "name": "Jetcoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "JIN",
+    "name": "JinCoin",
+    "withdrawfee": 0.2
+  },
+  {
+    "symbol": "KAT",
+    "name": "Kambria",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "KAYI",
+    "name": "Kayicoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "kB3",
+    "name": "B3Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "KLC",
+    "name": "KiloCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "KMD",
+    "name": "Komodo",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "KNC",
+    "name": "Kyber Network",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "KNDC",
+    "name": "KanadeCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "KOBO",
+    "name": "Kobocoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "KOI",
+    "name": "Koicoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "KORUNA",
+    "name": "CzechoSlovak KORUNA",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "KREX",
+    "name": "Kronn",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "KUBO",
+    "name": "KubosCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "KURT",
+    "name": "Kurrent",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "LA",
+    "name": "LAToken",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "LABH",
+    "name": "Labh",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "LEVO",
+    "name": "LevoCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "LGS",
+    "name": "LogisCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "LIFE",
+    "name": "LIFE",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "LINDA",
+    "name": "Linda",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "LINX",
+    "name": "Linx",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "LMC",
+    "name": "LoMoCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "LNK",
+    "name": "EthereumLink",
+    "withdrawfee": 0.05
+  },
+  {
+    "symbol": "LOOM",
+    "name": "Loom Network",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "LPC",
+    "name": "LightPayCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "LRC",
+    "name": "Loopring",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "LRM",
+    "name": "LRM Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "LUCK",
+    "name": "Luckcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "LUNA",
+    "name": "Lunacoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MAC",
+    "name": "MachineCoin",
+    "withdrawfee": 2
+  },
+  {
+    "symbol": "MAG",
+    "name": "Magnet",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MAM",
+    "name": "Mamcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MAME",
+    "name": "mameCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "MANGA",
+    "name": "MangaCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MARS",
+    "name": "MarsBux",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MARS2",
+    "name": "MarsBux2",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MAXI",
+    "name": "Maxicoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MAY",
+    "name": "TheresaMayCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MBC",
+    "name": "Mobozcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MCB",
+    "name": "Microbyte",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "MEC",
+    "name": "Megacoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "MEME",
+    "name": "Memetic",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "MENTAL",
+    "name": "MentalHealthCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "MFG",
+    "name": "SyncFab",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "MGM",
+    "name": "Magnumcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MGO",
+    "name": "MobileGo",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "MGT",
+    "name": "Magnatum",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MILO",
+    "name": "MiloCoin",
+    "withdrawfee": 0.5
+  },
+  {
+    "symbol": "MINEX",
+    "name": "Minex",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "MINT",
+    "name": "Mintcoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "MIPS",
+    "name": "MIPSToken",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "MITH",
+    "name": "Mithril",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "MNX",
+    "name": "MinexCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MOIN",
+    "name": "Moincoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "MOJO",
+    "name": "Mojocoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "MONA",
+    "name": "MonaCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MONK",
+    "name": "MONKEY",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MOON",
+    "name": "Mooncoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "MSCN",
+    "name": "MasterSwisCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MSP",
+    "name": "Mothership",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "MST",
+    "name": "MustangCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "MTH",
+    "name": "Monetha",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "MTL",
+    "name": "Metal",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "MUE",
+    "name": "MonetaryUnit",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "MUN",
+    "name": "MUNcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "MUX",
+    "name": "Manutax",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "MXT",
+    "name": "MarteXcoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "N2O",
+    "name": "Nitrous",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "NANJ",
+    "name": "NANJCOIN",
+    "withdrawfee": 100
+  },
+  {
+    "symbol": "NBX",
+    "name": "NetBit",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "NEOG",
+    "name": "NeoGold",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "NEON",
+    "name": "Nucleon",
+    "withdrawfee": 50
+  },
+  {
+    "symbol": "NEONCOIN",
+    "name": "NeonCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "NGTC",
+    "name": "NavGlobalTourCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "NLC2",
+    "name": "NoLimitCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "NLG",
+    "name": "Gulden",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "NMD",
+    "name": "Nomad",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "NOR",
+    "name": "Noir",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "NPXS",
+    "name": "Pundi X",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "NR1",
+    "name": "NR1",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "NRG",
+    "name": "Energi",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "NRO",
+    "name": "Neuro",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "NSOK",
+    "name": "NEWSOKUCOIN",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "NTC",
+    "name": "Natcoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "NTO",
+    "name": "Fujinto",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "NUA",
+    "name": "Neulaut",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "OCP",
+    "name": "OC Protocol",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "OGN",
+    "name": "OGNCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "OLMP",
+    "name": "Olympic",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "OMG",
+    "name": "OmiseGO",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ONION",
+    "name": "DeepOnion",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "OOT",
+    "name": "Utrum",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "OPC",
+    "name": "Overpoweredcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "OPCX",
+    "name": "OPCoinX",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ORME",
+    "name": "Ormeus Coin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ORYX",
+    "name": "OryxCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "OUR",
+    "name": "Ourcoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "OWN",
+    "name": "OWNDATA",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "P2P",
+    "name": "P2PCOIN",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "PAC",
+    "name": "PACcoin",
+    "withdrawfee": 500
+  },
+  {
+    "symbol": "PAWS",
+    "name": "PAWS Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "PCN",
+    "name": "Peepcoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PCS",
+    "name": "Pabyosicoin Special",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "PDX",
+    "name": "PayDay Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "PEC",
+    "name": "PeaceCoin3.6",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "PENG",
+    "name": "PENG",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "PGL",
+    "name": "ProspectorsGold",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PHN",
+    "name": "Phillionex",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PHON",
+    "name": "phonecoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "PIGGY",
+    "name": "PiggyCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "PIVX",
+    "name": "Pivx",
+    "withdrawfee": 0.2
+  },
+  {
+    "symbol": "PIX",
+    "name": "Lampix",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PKT",
+    "name": "PlaykeyToken",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PLACO",
+    "name": "PlayerCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "PLSR",
+    "name": "Pulsar",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PLX",
+    "name": "PlexCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PMA",
+    "name": "PumaPay",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PMN",
+    "name": "PeepMasternode",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "POS",
+    "name": "Postoken",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "POST",
+    "name": "Postcoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "POT",
+    "name": "Potcoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "POWR",
+    "name": "Power Ledger",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PPT",
+    "name": "Populous",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PRE",
+    "name": "Presearch",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PRIMU",
+    "name": "Primulon",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "PRJ",
+    "name": "Project Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "PRL",
+    "name": "OysterPearl",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PRN",
+    "name": "Protean",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PRX",
+    "name": "Printerium",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "PT",
+    "name": "Porntoken",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PTS",
+    "name": "PitisCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PURA",
+    "name": "PURA",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PUREX",
+    "name": "Pure",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "PUT",
+    "name": "PutinCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "PWR",
+    "name": "Powercoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "PXG",
+    "name": "PlayGame Token",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "PYN",
+    "name": "Paycentos",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "QNO",
+    "name": "QYNO",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "QRL",
+    "name": "Quantum Resistance Ledger",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "QST",
+    "name": "Quaestor Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "QTUM",
+    "name": "Qtum",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "QUB",
+    "name": "Qubenet",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "QURO",
+    "name": "Qurito",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "RAIN",
+    "name": "Condensate",
+    "withdrawfee": 0.5
+  },
+  {
+    "symbol": "RBL",
+    "name": "RoyalBritishLegion",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "REQ",
+    "name": "Request Network",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "REX",
+    "name": "imbrex",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "RHO",
+    "name": "Rhodiumcoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "RIYA",
+    "name": "Etheriya",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ROOFS",
+    "name": "Roofs",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "RSTR",
+    "name": "Ondori",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "RTL",
+    "name": "Rentledger",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "RUNE",
+    "name": "RuneStoneCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "RUNNERS",
+    "name": "Runners",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "RUP",
+    "name": "Rupee",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "RVN",
+    "name": "Ravencoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "RVR",
+    "name": "RevolutionVR",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SAKE",
+    "name": "SAKECOIN",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "SBIT",
+    "name": "StackBIT",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SBT",
+    "name": "SBucksToken",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SCL",
+    "name": "Social",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "SCORE",
+    "name": "Scorecoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SCOREOLD",
+    "name": "ScorecoinOLD",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SDASH",
+    "name": "ScryptDashCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SENYO",
+    "name": "SENYO",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SFC",
+    "name": "SolarflareCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SGR",
+    "name": "SugarExchange",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "SHB",
+    "name": "SkyHub",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SHMN",
+    "name": "StrongHands Masternode",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SHND",
+    "name": "StrongHands",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "SIC",
+    "name": "Swisscoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "SIPS",
+    "name": "SipsCo",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "SISA",
+    "name": "SISA",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "SKILL",
+    "name": "SKILLCOIN",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "SKOIN",
+    "name": "Skoincoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SKULL",
+    "name": "PirateBlocks",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SLR",
+    "name": "SolarCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SMART",
+    "name": "SmartCash",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SMS",
+    "name": "SMSCoin",
+    "withdrawfee": 0.002
+  },
+  {
+    "symbol": "SNO",
+    "name": "SaveNode",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SOLAR",
+    "name": "Solar",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "SONIQ",
+    "name": "Soniq",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "SPANK",
+    "name": "SpankChain",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "SPL",
+    "name": "Simplicity",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SPRTS",
+    "name": "Sprouts",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "SRC",
+    "name": "SecureCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SRN",
+    "name": "SIRIN LABS Token",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "STARX",
+    "name": "StarCashX",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "STN",
+    "name": "Steneum",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "STO",
+    "name": "SaveTheOceanCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "STX",
+    "name": "Stox",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "SUB",
+    "name": "Substratum",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "SUPER",
+    "name": "SuperCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SUPERMAN",
+    "name": "Superman",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SUQA",
+    "name": "SUQA",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SURGE",
+    "name": "SurgeCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SUSU",
+    "name": "Susucoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "SWC",
+    "name": "SwisscoinCash",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "SYNX",
+    "name": "Syndicate",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TAAS",
+    "name": "Token-as-a-Service",
+    "withdrawfee": 2
+  },
+  {
+    "symbol": "TAL",
+    "name": "TALUS COIN",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TBS",
+    "name": "The Basis",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TELL",
+    "name": "Tellurion",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "TER",
+    "name": "TerraNovaCoin",
+    "withdrawfee": 0.005
+  },
+  {
+    "symbol": "TGN",
+    "name": "Temgean Coin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "TGT",
+    "name": "Targetcoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "TIGC",
+    "name": "Tigra",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TIGER",
+    "name": "TigerCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TIPS",
+    "name": "Fedoracoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TLE",
+    "name": "TattoocoinLimitedEdition",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TMC",
+    "name": "TulipManiaCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TOPAZ",
+    "name": "TopazCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TOR",
+    "name": "TorCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TPAY",
+    "name": "TokenPay",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TPC",
+    "name": "TrumPenceCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TPG",
+    "name": "Trollpayment",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TRANCE",
+    "name": "Trancecoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TRC",
+    "name": "Terracoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TRDT",
+    "name": "Trident Group",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "TRT",
+    "name": "Tuurnt Token",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "TRTT",
+    "name": "TRITTIUM",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TRUX",
+    "name": "TreauxCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TRX",
+    "name": "TRON",
+    "withdrawfee": 0.003
+  },
+  {
+    "symbol": "TSE",
+    "name": "Tatoocoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "TSTR",
+    "name": "TristarCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TURBO",
+    "name": "TurboCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "TUSD",
+    "name": "TrueUSD",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "TYPE",
+    "name": "Typerium",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "UFO",
+    "name": "Uniform Fiscal Object",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "UFR",
+    "name": "Upfiring",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "UNIFY",
+    "name": "Unify",
+    "withdrawfee": 0
+  },
+  {
+    "symbol": "UNIT",
+    "name": "UnitCurrency",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "UNITY",
+    "name": "SuperNET",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "UNO",
+    "name": "Unobtanium",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "UQC",
+    "name": "UquidCoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "UZZ",
+    "name": "Uzuras",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "VC",
+    "name": "VirtualCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "VEN",
+    "name": "VeChain",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "VGS",
+    "name": "LasVegasCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "VIDZ",
+    "name": "PureVidz",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "VIPS",
+    "name": "VIPSTARCOIN",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "VISIO",
+    "name": "Visio",
+    "withdrawfee": 0.05
+  },
+  {
+    "symbol": "VITAE",
+    "name": "Vitae",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "VLU",
+    "name": "Valuto",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "VOISE",
+    "name": "Voise",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "VSX",
+    "name": "Vsync",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "VULC",
+    "name": "Vulcano",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "WBTC",
+    "name": "WorldBTC",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "WOMEN",
+    "name": "WomenCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "WORM",
+    "name": "HealthyWormCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "WRC",
+    "name": "Worldcore",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "WYV",
+    "name": "Wyvern",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XAP",
+    "name": "Apollon",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "XBA",
+    "name": "Bitcoin Air",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XBC",
+    "name": "BitcoinPlus",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XBL",
+    "name": "BillionaireToken",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "XBRC",
+    "name": "BitRewards",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XCG",
+    "name": "Xchange",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XCHE",
+    "name": "CheCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "XCPS",
+    "name": "Cryphos",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "XCT",
+    "name": "CBit",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XCXT",
+    "name": "CoinonatX",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XDE2",
+    "name": "Xde2",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XGOX",
+    "name": "Xgox",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XGTC",
+    "name": "GirlsTokenCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XLQ",
+    "name": "ALQO",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XLR",
+    "name": "Solaris",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "XMCC",
+    "name": "Monoeci",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XP",
+    "name": "XP",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "XPASC",
+    "name": "PascalClassic",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "XPC",
+    "name": "eXPerience Chain",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XQN",
+    "name": "Quotient",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XRH",
+    "name": "Rhenium",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XSH",
+    "name": "Shield",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XSTC",
+    "name": "Safetradecoin",
+    "withdrawfee": 2
+  },
+  {
+    "symbol": "XVG",
+    "name": "Verge",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XXX",
+    "name": "XxXCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "XYZ",
+    "name": "XYZCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "XZC",
+    "name": "ZCoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "XZCD",
+    "name": "ZcoinDark",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "YOKOCHO",
+    "name": "YOKOCHO COIN",
+    "withdrawfee": 2770
+  },
+  {
+    "symbol": "YUKI",
+    "name": "YUKI",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "Z502",
+    "name": "502 Bad Gateway Token",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ZCC",
+    "name": "ZcCoin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ZCL",
+    "name": "Zclassic",
+    "withdrawfee": 0.001
+  },
+  {
+    "symbol": "ZEC",
+    "name": "Zcash",
+    "withdrawfee": 0.001
+  },
+  {
+    "symbol": "ZEIT",
+    "name": "Zeitcoin",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "ZENI",
+    "name": "Zennies",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ZERO",
+    "name": "ZeroCurrency",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ZEST",
+    "name": "ZEST Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ZIO",
+    "name": "ZIO Coin",
+    "withdrawfee": 0.01
+  },
+  {
+    "symbol": "ZMC",
+    "name": "ZMicron",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "ZRX",
+    "name": "0x",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ZZC",
+    "name": "ZoZoCoin",
+    "withdrawfee": 0.01
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "symbol": "ADC",
+    "name": "Audiocoin",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "BIFD",
+    "name": "Biffy Diamond",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "BITB",
+    "name": "BitBean",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "BBK",
+    "name": "Bitblocks",
+    "withdrawfee": "10.0 "
+  },
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "withdrawfee": "0.001 "
+  },
+  {
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "withdrawfee": "0.001 "
+  },
+  {
+    "symbol": "BTG",
+    "name": "Bitcoin Gold",
+    "withdrawfee": "0.001 "
+  },
+  {
+    "symbol": "BLK",
+    "name": "BlackCoin",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "BOON",
+    "name": "BoonCoin",
+    "withdrawfee": "10.0 "
+  },
+  {
+    "symbol": "CDN",
+    "name": "Canada eCoin",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "CPLO",
+    "name": "Cpollo",
+    "withdrawfee": "100.0 "
+  },
+  {
+    "symbol": "CRM",
+    "name": "Cream",
+    "withdrawfee": "1.0 "
+  },
+  {
+    "symbol": "MAG",
+    "name": "CrypticMAG",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "DAPS",
+    "name": "DAPS Token",
+    "withdrawfee": "10.0 "
+  },
+  {
+    "symbol": "DART",
+    "name": "DarexTravel",
+    "withdrawfee": "100.0 "
+  },
+  {
+    "symbol": "DASH",
+    "name": "Dash",
+    "withdrawfee": "0.001 "
+  },
+  {
+    "symbol": "DCR",
+    "name": "Decred",
+    "withdrawfee": "0.05 "
+  },
+  {
+    "symbol": "DIVI",
+    "name": "Divi",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "DIVX",
+    "name": "Divi Exch Token",
+    "withdrawfee": "1.0 "
+  },
+  {
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "withdrawfee": "10.0 "
+  },
+  {
+    "symbol": "EJOB",
+    "name": "Ejob",
+    "withdrawfee": "100000.0 "
+  },
+  {
+    "symbol": "EEE",
+    "name": "Elementh",
+    "withdrawfee": "0.001 "
+  },
+  {
+    "symbol": "DNA",
+    "name": "EncrypGen",
+    "withdrawfee": "10.0 "
+  },
+  {
+    "symbol": "EPC",
+    "name": "Epacoin",
+    "withdrawfee": "0.0 "
+  },
+  {
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "withdrawfee": "0.01 "
+  },
+  {
+    "symbol": "LEND",
+    "name": "ETHLend",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "XP",
+    "name": "ExperiencePoints",
+    "withdrawfee": "10.0 "
+  },
+  {
+    "symbol": "FREE",
+    "name": "Free Coin",
+    "withdrawfee": "100000.0 "
+  },
+  {
+    "symbol": "FJC",
+    "name": "FujiCoin",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "GODZ",
+    "name": "Godzillion",
+    "withdrawfee": "1.0 "
+  },
+  {
+    "symbol": "GB",
+    "name": "Goldblocks",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "NLG",
+    "name": "Gulden",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "HBZ",
+    "name": "Helbiz",
+    "withdrawfee": "1.0 "
+  },
+  {
+    "symbol": "HTML",
+    "name": "Htmlcoin",
+    "withdrawfee": "1.0 "
+  },
+  {
+    "symbol": "IOP",
+    "name": "Internet of People",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "IFT",
+    "name": "InvestFeed",
+    "withdrawfee": "5.0 "
+  },
+  {
+    "symbol": "IOST",
+    "name": "IOSToken",
+    "withdrawfee": "10.0 "
+  },
+  {
+    "symbol": "KNT",
+    "name": "Knekted",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "LINDA",
+    "name": "Linda",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "withdrawfee": "0.001 "
+  },
+  {
+    "symbol": "LGS",
+    "name": "LogisCoin",
+    "withdrawfee": "0.01 "
+  },
+  {
+    "symbol": "MONA",
+    "name": "Monacoin",
+    "withdrawfee": "0.01 "
+  },
+  {
+    "symbol": "TEEN",
+    "name": "MyTeenCoin",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "NMC",
+    "name": "Namecoin",
+    "withdrawfee": "0.015 "
+  },
+  {
+    "symbol": "NBC",
+    "name": "Niobium Coin",
+    "withdrawfee": "1.0 "
+  },
+  {
+    "symbol": "OK",
+    "name": "OKCash",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "RSTR",
+    "name": "Ondori",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "PCN",
+    "name": "PeepCoin",
+    "withdrawfee": "10.0 "
+  },
+  {
+    "symbol": "PENG",
+    "name": "Penguin",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "POT",
+    "name": "Potcoin",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "XPM",
+    "name": "Primecoin",
+    "withdrawfee": "0.001 "
+  },
+  {
+    "symbol": "QTUM",
+    "name": "Qtum",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "RDD",
+    "name": "Reddcoin",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "ROY",
+    "name": "Roy",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "SMART",
+    "name": "SmartCash",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "SPX",
+    "name": "Sp8de",
+    "withdrawfee": "10.0 "
+  },
+  {
+    "symbol": "SWFTC",
+    "name": "SwftCoin",
+    "withdrawfee": "1.0 "
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether",
+    "withdrawfee": "1.0 "
+  },
+  {
+    "symbol": "TROLL",
+    "name": "Trollcoin 2.0",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "UNO",
+    "name": "Unobtanium",
+    "withdrawfee": "0.01 "
+  },
+  {
+    "symbol": "VEN",
+    "name": "VeChain",
+    "withdrawfee": "0.001 "
+  },
+  {
+    "symbol": "VRC",
+    "name": "VeriCoin",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "VTC",
+    "name": "Vertcoin",
+    "withdrawfee": "0.1 "
+  },
+  {
+    "symbol": "XOLA",
+    "name": "XOLA",
+    "withdrawfee": "10.0 "
+  },
+  {
+    "symbol": "ZEUS",
+    "name": "ZeusNetwork",
+    "withdrawfee": "1000.0 "
+  }
+]

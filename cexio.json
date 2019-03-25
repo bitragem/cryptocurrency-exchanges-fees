@@ -1,0 +1,57 @@
+[
+  {
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "withdrawfee": "0.01"
+  },
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "withdrawfee": "0.0005"
+  },
+  {
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "withdrawfee": "0.001"
+  },
+  {
+    "symbol": "BTG",
+    "name": "Bitcoin Gold",
+    "withdrawfee": "0.001"
+  },
+  {
+    "symbol": "DASH",
+    "name": "Dash",
+    "withdrawfee": "0.01"
+  },
+  {
+    "symbol": "GHS",
+    "name": "Gigahashes",
+    "withdrawfee": "0.0001"
+  },
+  {
+    "symbol": "XRP",
+    "name": "Ripple",
+    "withdrawfee": "0.02"
+  },
+  {
+    "symbol": "XLM",
+    "name": "Stellar",
+    "withdrawfee": "0.00001"
+  },
+  {
+    "symbol": "ZEC",
+    "name": "Zcash",
+    "withdrawfee": "0.001"
+  },
+  {
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "withdrawfee": "0.001"
+  },
+  {
+    "symbol": "QASH",
+    "name": "QASH",
+    "withdrawfee": "8.250000"
+  }
+]

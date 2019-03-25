@@ -1,0 +1,107 @@
+[
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin ",
+    "withdrawfee": "0.00015625 "
+  },
+  {
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "withdrawfee": "0.00199700 "
+  },
+  {
+    "symbol": "BTG",
+    "name": "Bitcoin Gold",
+    "withdrawfee": "0.00199700 "
+  },
+  {
+    "symbol": "CRW",
+    "name": "Crown",
+    "withdrawfee": "0.00200000"
+  },
+  {
+    "symbol": "DASH",
+    "name": "Dash ",
+    "withdrawfee": "0.00200000 "
+  },
+  {
+    "symbol": "DCR",
+    "name": "Decred",
+    "withdrawfee": "0.01000000 "
+  },
+  {
+    "symbol": "EOS ",
+    "name": "EOS ",
+    "withdrawfee": "0"
+  },
+  {
+    "symbol": "ETC",
+    "name": "Ethereum Classic",
+    "withdrawfee": "0.01000000 "
+  },
+  {
+    "symbol": "ETH",
+    "name": "Ethereum ",
+    "withdrawfee": "0.00199700 "
+  },
+  {
+    "symbol": "IOP",
+    "name": "Internet Of People",
+    "withdrawfee": "1.00000000"
+  },
+  {
+    "symbol": "LTC",
+    "name": "Litecoin ",
+    "withdrawfee": "0.00997000 "
+  },
+  {
+    "symbol": "MXT",
+    "name": "MartexCoin ",
+    "withdrawfee": "1.00000000 "
+  },
+  {
+    "symbol": "NBR",
+    "name": "Nióbio Cash",
+    "withdrawfee": "1.00000000"
+  },
+  {
+    "symbol": "ONIX",
+    "name": "Onix ",
+    "withdrawfee": "5.00000000 "
+  },
+  {
+    "symbol": "SMART",
+    "name": "SmartCash ",
+    "withdrawfee": "1.00000000 "
+  },
+  {
+    "symbol": "USDT",
+    "name": "USD Tether",
+    "withdrawfee": "25.00000000"
+  },
+  {
+    "symbol": "XMR",
+    "name": "Monero",
+    "withdrawfee": "0.01997000 "
+  },
+  {
+    "symbol": "XRP",
+    "name": "Ripple ",
+    "withdrawfee": "1.00000000 "
+  },
+  {
+    "symbol": "ZEC",
+    "name": "ZCash ",
+    "withdrawfee": "0.00200000 "
+  },
+  {
+    "symbol": "TRX",
+    "name": "TRON",
+    "withdrawfee": "1"
+  },
+  {
+    "symbol": "LCC",
+    "name": "Litecoin Cash",
+    "withdrawfee": "5.00000000"
+  }
+]
