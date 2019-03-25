@@ -8,8 +8,9 @@ The data should be recorded in dotJSON file following the pattern of those alrea
 
 Example:
 
+
+Filename: binance.json
 ```
-binance.json
 [
    {
      "symbol": "PIVX",
