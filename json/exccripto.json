@@ -1,0 +1,42 @@
+[
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "withdrawfee": 0.0005
+  },
+  {
+    "symbol": "DCR",
+    "name": "Decred",
+    "withdrawfee": 0.001
+  },
+  {
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "withdrawfee": 0.001
+  },
+  {
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "withdrawfee": 0.001
+  },
+  {
+    "symbol": "SMART",
+    "name": "SmartCash",
+    "withdrawfee": 0.1
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether",
+    "withdrawfee": 1
+  },
+  {
+    "symbol": "ZCR",
+    "name": "Zcore",
+    "withdrawfee": 0.1
+  }
+]
