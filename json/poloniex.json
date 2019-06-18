@@ -1,0 +1,302 @@
+[
+    {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "withdrawalfee": "0.0005"
+    },
+    {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "XRP",
+        "name": "XRP",
+        "withdrawalfee": "0.15"
+    },
+    {
+        "symbol": "EOS",
+        "name": "EOS",
+        "withdrawalfee": "0.0"
+    },
+    {
+        "symbol": "LTC",
+        "name": "Litecoin",
+        "withdrawalfee": "0.001"
+    },
+    {
+        "symbol": "BCH",
+        "name": "Bitcoin Cash",
+        "withdrawalfee": "0.001"
+    },
+    {
+        "symbol": "USDT",
+        "name": "Tether",
+        "withdrawalfee": "10.0"
+    },
+    {
+        "symbol": "XLM",
+        "name": "Stellar",
+        "withdrawalfee": "0.00001"
+    },
+    {
+        "symbol": "BSV",
+        "name": "Bitcoin SV",
+        "withdrawalfee": "0.001"
+    },
+    {
+        "symbol": "XMR",
+        "name": "Monero",
+        "withdrawalfee": "0.0001"
+    },
+    {
+        "symbol": "DASH",
+        "name": "Dash",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "ETC",
+        "name": "Ethereum Classic",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "XEM",
+        "name": "NEM",
+        "withdrawalfee": "15.0"
+    },
+    {
+        "symbol": "ZEC",
+        "name": "Zcash",
+        "withdrawalfee": "0.001"
+    },
+    {
+        "symbol": "DOGE",
+        "name": "Dogecoin",
+        "withdrawalfee": "100.0"
+    },
+    {
+        "symbol": "BAT",
+        "name": "Basic Attention Token",
+        "withdrawalfee": "9.0"
+    },
+    {
+        "symbol": "QTUM",
+        "name": "Qtum",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "OMG",
+        "name": "OmiseGO",
+        "withdrawalfee": "0.3"
+    },
+    {
+        "symbol": "DCR",
+        "name": "Decred",
+        "withdrawalfee": "0.1"
+    },
+    {
+        "symbol": "LSK",
+        "name": "Lisk",
+        "withdrawalfee": "0.1"
+    },
+    {
+        "symbol": "REP",
+        "name": "Augur",
+        "withdrawalfee": "0.1"
+    },
+    {
+        "symbol": "ZRX",
+        "name": "0x",
+        "withdrawalfee": "5.0"
+    },
+    {
+        "symbol": "DGB",
+        "name": "DigiByte",
+        "withdrawalfee": "0.1"
+    },
+    {
+        "symbol": "BCN",
+        "name": "Bytecoin",
+        "withdrawalfee": "1.0"
+    },
+    {
+        "symbol": "STEEM",
+        "name": "Steem",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "BTS",
+        "name": "BitShares",
+        "withdrawalfee": "5.0"
+    },
+    {
+        "symbol": "SC",
+        "name": "Siacoin",
+        "withdrawalfee": "10.0"
+    },
+    {
+        "symbol": "STRAT",
+        "name": "Stratis",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "SNT",
+        "name": "Status",
+        "withdrawalfee": "200.0"
+    },
+    {
+        "symbol": "GNT",
+        "name": "Golem",
+        "withdrawalfee": "1.0"
+    },
+    {
+        "symbol": "FCT",
+        "name": "Factom",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "ARDR",
+        "name": "Ardor",
+        "withdrawalfee": "2.0"
+    },
+    {
+        "symbol": "MAID",
+        "name": "MaidSafeCoin",
+        "withdrawalfee": "10.0"
+    },
+    {
+        "symbol": "MANA",
+        "name": "Decentraland",
+        "withdrawalfee": "22.0"
+    },
+    {
+        "symbol": "LOOM",
+        "name": "Loom Network",
+        "withdrawalfee": "19.0"
+    },
+    {
+        "symbol": "BNT",
+        "name": "Bancor",
+        "withdrawalfee": "1.1"
+    },
+    {
+        "symbol": "POLY",
+        "name": "Polymath",
+        "withdrawalfee": "0.25"
+    },
+    {
+        "symbol": "STORJ",
+        "name": "Storj",
+        "withdrawalfee": "1.0"
+    },
+    {
+        "symbol": "SYS",
+        "name": "Syscoin",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "KNC",
+        "name": "Kyber Network",
+        "withdrawalfee": "1.5"
+    },
+    {
+        "symbol": "NXT",
+        "name": "Nxt",
+        "withdrawalfee": "1.0"
+    },
+    {
+        "symbol": "CVC",
+        "name": "Civic",
+        "withdrawalfee": "1.0"
+    },
+    {
+        "symbol": "VTC",
+        "name": "Vertcoin",
+        "withdrawalfee": "0.001"
+    },
+    {
+        "symbol": "PPC",
+        "name": "Peercoin",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "CLAM",
+        "name": "Clams",
+        "withdrawalfee": "0.001"
+    },
+    {
+        "symbol": "NAV",
+        "name": "NavCoin",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "SBD",
+        "name": "Steem Dollars",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "NMC",
+        "name": "Namecoin",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "VIA",
+        "name": "Viacoin",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "BURST",
+        "name": "Burst",
+        "withdrawalfee": "1.0"
+    },
+    {
+        "symbol": "FOAM",
+        "name": "FOAM",
+        "withdrawalfee": "1.0"
+    },
+    {
+        "symbol": "GAME",
+        "name": "GameCredits",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "NMR",
+        "name": "Numeraire",
+        "withdrawalfee": "0.05"
+    },
+    {
+        "symbol": "LBC",
+        "name": "LBRY Credits",
+        "withdrawalfee": "0.05"
+    },
+    {
+        "symbol": "PASC",
+        "name": "Pascal Coin",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "XCP",
+        "name": "Counterparty",
+        "withdrawalfee": "1.0"
+    },
+    {
+        "symbol": "XPM",
+        "name": "Primecoin",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "OMNI",
+        "name": "Omni",
+        "withdrawalfee": "0.1"
+    },
+    {
+        "symbol": "HUC",
+        "name": "HunterCoin",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "LPT",
+        "name": "Livepeer",
+        "withdrawalfee": "0.05"
+    }
+]

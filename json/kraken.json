@@ -1,0 +1,87 @@
+[
+    {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "withdrawalfee": "0.0005"
+    },
+    {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "withdrawalfee": "0.005"
+    },
+    {
+        "symbol": "XRP",
+        "name": "XRP",
+        "withdrawalfee": "0.02"
+    },
+    {
+        "symbol": "EOS",
+        "name": "EOS",
+        "withdrawalfee": "0.05"
+    },
+    {
+        "symbol": "LTC",
+        "name": "Litecoin",
+        "withdrawalfee": "0.001"
+    },
+    {
+        "symbol": "BCH",
+        "name": "Bitcoin Cash",
+        "withdrawalfee": "0.0001"
+    },
+    {
+        "symbol": "USDT",
+        "name": "Tether",
+        "withdrawalfee": "5.0"
+    },
+    {
+        "symbol": "XLM",
+        "name": "Stellar",
+        "withdrawalfee": "0.00002"
+    },
+    {
+        "symbol": "BSV",
+        "name": "Bitcoin SV",
+        "withdrawalfee": "0.0001"
+    },
+    {
+        "symbol": "ADA",
+        "name": "Cardano",
+        "withdrawalfee": "0.3"
+    },
+    {
+        "symbol": "XMR",
+        "name": "Monero",
+        "withdrawalfee": "0.0001"
+    },
+    {
+        "symbol": "DASH",
+        "name": "Dash",
+        "withdrawalfee": "0.005"
+    },
+    {
+        "symbol": "ETC",
+        "name": "Ethereum Classic",
+        "withdrawalfee": "0.005"
+    },
+    {
+        "symbol": "ZEC",
+        "name": "Zcash",
+        "withdrawalfee": "0.0001"
+    },
+    {
+        "symbol": "DOGE",
+        "name": "Dogecoin",
+        "withdrawalfee": "2.0"
+    },
+    {
+        "symbol": "QTUM",
+        "name": "Qtum",
+        "withdrawalfee": "0.01"
+    },
+    {
+        "symbol": "REP",
+        "name": "Augur",
+        "withdrawalfee": "0.01"
+    }
+]
